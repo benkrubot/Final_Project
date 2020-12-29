@@ -36,7 +36,7 @@ Didn't have any in this project, wasn't sure what I could do with this project. 
 
 ![alt text](https://i.imgur.com/HcPuz3d.png)
 
-Pressing the buttons do things.
+Pressing a button causes an event.
 # exceptions,
 
 ![alt text](https://i.imgur.com/PBAmyU5.png)
